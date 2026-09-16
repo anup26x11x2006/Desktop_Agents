@@ -162,7 +162,7 @@ git clone https://github.com/anup26x11x2006/Desktop_Agents.git
 ### 2. Navigate to the project
 
 ```bash
-cd Desktop_Agents/02/02
+cd Desktop_Agents/02/Desktop_Assistant
 ```
 
 ### 3. Create a virtual environment
