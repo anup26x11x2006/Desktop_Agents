@@ -136,7 +136,7 @@ git clone https://github.com/anup26x11x2006/Desktop_Agents.git
 ### 2. Navigate to the project
 
 ```bash
-cd Desktop_Agents/01/01
+cd Desktop_Agents/01/Jarvis_Desktop_Voice_Assistant
 ```
 
 ### 3. Create a virtual environment
